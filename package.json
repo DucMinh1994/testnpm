@@ -1,0 +1,26 @@
+{
+    "name": "testnpm",
+    "version": "1.0.0",
+    "description": "Hỗ trợ game thủ random quân, tạo kèo đấu trong game AOE",
+    "main": "index.js",
+    "homepage": "https://github.com/FightLightDiamond/testnpm",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "bin": {
+        "aoerandom": "commands/aoerandom.js"
+    },
+
+    "keywords": [
+        "AOE",
+        "GAME",
+        "RANDOM",
+        "JS",
+        "Age of Empires",
+        "CUONGPM",
+        "FightLightDiamond"
+    ],
+
+    "author": "FightLightDiamond",
+    "license": "ISC"
+}
