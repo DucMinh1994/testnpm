@@ -3,12 +3,12 @@
     "version": "1.0.0",
     "description": "Hỗ trợ game thủ random quân, tạo kèo đấu trong game AOE",
     "main": "index.js",
-    "homepage": "https://github.com/FightLightDiamond/testnpm",
+    "homepage": "https://github.com/DucMinh1994/testnpm",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "bin": {
-        "aoerandom": "commands/aoerandom.js"
+        "testnpm": "commands/testnpm.js"
     },
 
     "keywords": [
